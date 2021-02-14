@@ -1,1 +1,3 @@
-Adding a line inside the second file 
+Adding a line inside the second file
+second line in the second file 
+third line in the second document
